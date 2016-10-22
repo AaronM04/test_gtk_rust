@@ -1,0 +1,7 @@
+[package]
+name = "test_gtk_rust"
+version = "0.1.0"
+authors = ["Aaron Miller <aaron.miller04@gmail.com>"]
+
+[dependencies]
+gtk = "0.1.0"
